@@ -1,5 +1,5 @@
 # ttt
-Unbeatable tic tac toe game
+Unbeatable tic-tac-toe game based on the minimax algorithm
 
 Requires: pygame, python3
 
